@@ -1,0 +1,10 @@
+Запуск сервера: python my_site/manage.py runserver
+В браузере открыть сайт: http://127.0.0.1:8000/
+Админка django: http://localhost:8000/admin/
+
+ДАННЫЕ ДЛЯ ВХОДА НА САЙТ
+Пользователь: visitor
+Пароль: 00null00
+
+Пользователь: admin
+Пароль: 00admin00
